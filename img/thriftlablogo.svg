@@ -1,0 +1,108 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+ class="svg-logo center-block" style="" viewBox="0 0 205.337 181.64" enable-background="new 0 0 205.337 181.64"
+ xml:space="preserve">
+
+	<defs>
+		<style type="text/css">
+			@font-face {
+				font-family: agency;
+				src: url(../fonts/AGENCYR.ttf);
+			}
+			#T{
+				-webkit-animation: T 2s; /* Chrome, Safari, Opera */
+				animation: T 2s;
+			}
+			@keyframes T {
+				from{
+					transform: translateX(15%);
+					opacity:.2;
+				}
+				to{
+					transform: translateX(0%);
+					opacity:1;
+				}
+			}
+			@-webkit-keyframes T {
+				from{
+					transform: translateX(15%);
+					opacity:.2;
+				}
+				to{
+					transform: translateX(0%);
+					opacity:1;
+				}
+			}
+			
+			#L{
+				-webkit-animation: L 2s; /* Chrome, Safari, Opera */
+				animation: L 2s;
+			}
+			@keyframes L {
+				from{
+					transform: translateY(15%);
+					opacity:.2;
+				}
+				to{
+					transform: translateY(0%);
+					opacity:1;
+				}
+			}
+			@-webkit-keyframes L {
+				from{
+					transform: translateY(15%);
+					opacity:.2;
+				}
+				to{
+					transform: translateY(0%);
+					opacity:1;
+				}
+			}
+			
+			#Text{
+				-webkit-animation: Text 2s; /* Chrome, Safari, Opera */
+				animation: Text 2s;
+			}
+			@keyframes Text {
+				from{
+					transform: translateX(-15%);
+					opacity:.2;
+				}
+				to{
+					transform: translateX(0%);
+					opacity:1;
+				}
+			}
+			@-webkit-keyframes Text {
+				from{
+					transform: translateX(-15%);
+					opacity:.2;
+				}
+				to{
+					transform: translateX(0%);
+					opacity:1;
+				}
+			}
+			
+			
+			
+		</style>
+	</defs>
+	<g id="Text">
+		
+			<text id="Text1" transform="matrix(1 0 0 1 59.4829 165.54)" fill="#656868" font-family="'agency'" font-size="14.1187" textlength="70">Thrift </text>
+		
+			<text id="Text2" transform="matrix(1 0 0 1 144.0835 165.54)" fill="#A3CD3A" font-family="'agency'" font-size="14.1187" textlength="35">Lab</text>
+	</g>
+	<g id="TL">
+		<g>
+			<g id="T">
+				<path id="T" fill="#656868" d="M101.967,37.768h-19.34v109.46H54.382V37.768H15.005V13.273h115.558L101.967,37.768z"/>
+			</g>
+			<g id="L">
+				<path fill="#A3CD3A" d="M190.333,147.228h-88.247l-0.118-109.46l28.596-24.494v109.461h34.938L190.333,147.228z"/>
+				<polygon fill="#77A440" points="190.333,147.228 102.085,147.228 130.563,122.734 165.501,122.734 		"/>
+			</g>
+			
+		</g>
+	</g>
+</svg>
